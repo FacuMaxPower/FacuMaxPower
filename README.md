@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FacuMaxPower
-- 👀 I’m interested in  la Economia y la Ciencia de datos
+- 👀 I’m interested in Economics and data science
 - 🌱 I’m currently learning  R  y Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
